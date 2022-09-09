@@ -9,3 +9,7 @@ click the download, and put it wherever you want. once you are done, click save.
 
 # downloads
 v1.0.0: https://github.com/dragon731012/blanker-2.0-html/archive/refs/tags/v1.0.0.zip
+
+# credit
+credit goes to LargoMC
+LargoMCs site:https://www.linktr.ee/largomc
